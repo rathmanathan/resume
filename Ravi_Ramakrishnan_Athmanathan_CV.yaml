@@ -69,31 +69,18 @@ cv:
         start_date: 2014-11
         end_date: 2015-11
         summary: Served as the primary point of contact for customers of TIBCO ActiveMatrix, expertly troubleshooting integration issues and ensuring their success.
-        # highlights:
-        #   - 'Served as the primary point of contact for external customers experiencing issues with TIBCO ActiveMatrix, troubleshooting integration problems within their distributed environments.'
-        #   - 'Troubleshot and resolved critical issues within customer production environments, minimizing downtime and ensuring business continuity.'
       - company: 'Infosys Limited'
         position: 'Technology Lead | Technology Analyst | Senior Systems Engineer'
         location: 'Sunnyvale, CA'
         start_date: '2010-09'
         end_date: '2014-11'
         summary: 'For Apple Inc., maintained high availability and optimized performance of production applications through root cause analysis, change management, automation, and expert technical support.'
-        # highlights:
-        #   - 'Directed root cause analysis (RCA) investigations and oversaw change management for SOX-compliant applications.'
-        #   - 'Successfully integrated new applications into the production environment, enhancing overall system performance.'
-        #   - 'Maintained high availability of internal production applications by providing expert technical support and issue resolution.'
-        #   - 'Enhanced deployment efficiency and reduced manual effort by automating key processes and managing emergency changes effectively.'
-        #   - 'Leveraged full-stack troubleshooting skills and Oracle PL/SQL tuning expertise to optimize application performance and stability.'
-        #   - 'Ensured rapid response and resolution of critical incidents during on-call rotations, minimizing business impact.'
       - company: 'Protechsoft Systems Limited'
         position: '*Software Engineer*'
         location: 'Chennai, India'
         start_date: '2007-06'
         end_date: '2010-09'
         summary: Engineered responsive Single Page Applications using JavaScript, HTML, and CSS, enhancing user workflows and proactively improving UI/UX
-        # highlights:
-        #   - 'Built responsive and interactive Single Page Applications (SPAs) using JavaScript, HTML, and CSS, streamlining user workflows and improving application performance.'
-        #   - 'Proactively identified and resolved UI/UX bugs in collaboration with designers and product owners, enhancing application usability.'
     Education:
       - institution: 'University of Madras'
         degree: M.Sc.
@@ -104,41 +91,8 @@ cv:
     Certifications:
       - name: '[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/309a996a-31b2-4d16-8a71-dfaa9ec3bad8/public_url)'
         date: '2024-12'
-        # highlights:
-        #   - '[View Certificate](https://www.credly.com/badges/309a996a-31b2-4d16-8a71-dfaa9ec3bad8/public_url)'
       - name: '[HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/1575a05e-859f-4014-ad5c-8d4e2f6684d9/public_url)'
         date: '2024-08'
-        # highlights:
-        #   - '[View Certificate](https://www.credly.com/badges/1575a05e-859f-4014-ad5c-8d4e2f6684d9/public_url)'
-    # projects:
-    #   - name: '[Example Project](https://example.com)'
-    #     date:
-    #     start_date: 2024-05
-    #     end_date: present
-    #     location:
-    #     summary: A web application for writing essays
-    #     highlights:
-    #       - Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users
-    #       - The app is made open-source (3,000+ stars [on GitHub](https://github.com))
-    #   - name: '[Teaching on Udemy](https://example.com)'
-    #     date: Fall 2023
-    #     start_date:
-    #     end_date:
-    #     location:
-    #     summary:
-    #     highlights:
-    #       - Instructed the "Statics" course on Udemy (60,000+ students, 200,000+ hours watched)
-    # extracurricular_activities:
-    #   - bullet: 'There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.'
-    #   - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
-    # numbered_entries:
-    #   - number: This is a numbered entry.
-    #   - number: This is another numbered entry.
-    #   - number: This is the third numbered entry.
-    # reversed_numbered_entries:
-    #   - reversed_number: This is a reversed numbered entry.
-    #   - reversed_number: This is another reversed numbered entry.
-    #   - reversed_number: This is the third reversed numbered entry.
 design:
   theme: moderncv
   page:
