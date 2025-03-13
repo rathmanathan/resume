@@ -1,6 +1,6 @@
 # My Resume
 
-This repository contains my resume, generated using the `rendercv` Python library.
+This repository contains my resume, generated using the [rendercv](https://rendercv.com/) Python library.
 
 ## Overview
 
