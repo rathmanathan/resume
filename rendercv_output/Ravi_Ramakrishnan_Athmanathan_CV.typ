@@ -453,7 +453,6 @@
 #let connections-list = (
   [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Pleasanton, CA],
   [#box(original-link("mailto:rathmanathan@outlook.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)rathmanathan\@outlook.com])],
-  [#box(original-link("tel:+1-408-318-5307")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(408\) 318-5307])],
   [#box(original-link("https://linkedin.com/in/ravirathmanathan")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)ravirathmanathan])],
 )
 #connections(connections-list)

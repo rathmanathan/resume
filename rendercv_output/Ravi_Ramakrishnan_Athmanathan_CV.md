@@ -1,6 +1,5 @@
 # Ravi Ramakrishnan Athmanathan's CV
 
-- Phone: +1 408 318 5307
 - Email: [rathmanathan@outlook.com](mailto:rathmanathan@outlook.com)
 - Location: Pleasanton, CA
 - LinkedIn: [ravirathmanathan](https://linkedin.com/in/ravirathmanathan)
