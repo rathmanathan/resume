@@ -22,11 +22,28 @@ The repository is structured as follows:
 
 ### Prerequisites
 
+* **Set up a virtual environment (recommended):**
+
+    ```bash
+    python3 -m venv .venv  # Create a virtual environment
+    source .venv/bin/activate  # Activate the virtual environment (Linux/macOS)
+    .venv\Scripts\activate  # Activate the virtual environment (Windows)
+    ```
+
 * **Install `rendercv`:**
 
     ```bash
     pip install rendercv
     ```
+### Initializing a New Resume
+
+To start a new resume using `rendercv`, you can use the following command:
+
+```bash
+rendercv new "Your Name" --theme moderncv
+```
+
+Replace `"Your Name"` with your actual name. The `--theme moderncv` option specifies the theme to use for the resume.
 
 ### Rendering the Resume
 
