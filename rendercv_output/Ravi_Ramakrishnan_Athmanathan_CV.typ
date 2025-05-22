@@ -508,6 +508,25 @@
 
 #two-col-entry(
   left-content: [
+    #strong[Palo Alto Networks]
+
+#strong[Senior Staff Site Reliability Engineer]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Contributed to the success of Site Reliability Engineering \(SRE\) and DevOps practices within the App Services team.],[Focused on ensuring applications are production-ready, scalable, and reliable by supporting automation, architecture, and observability efforts.],[Actively involved in operating and maintaining secure cloud infrastructure, primarily on GCP.],[Spearheaded team efforts in leveraging AI-powered tools by utilizing Sourcegraph Cody's Agentic workflow and integrating Model Context Protocol \(MCP\) servers to automate repetitive Infrastructure as Code \(IaC\) configuration changes through an agentic workflow connecting Sourcegraph Cody, Jira, and GitLab.],[Engaged in enhancing and maintaining CI\/CD pipelines, incorporating GitOps principles to automate service deployment.],[Contributed to security-focused initiatives, including projects such as implementing Workload Identity Federation between GitLab and GCP.],[Collaborated with developers and other technical teams to support and enhance application services.],[Participated in monitoring, troubleshooting, and resolving issues within complex distributed systems.],)
+  ],
+  right-content: [
+    Apr 2025 – present
+
+-1 years 11 months
+
+Santa Clara, CA
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Yahoo]
 
 #strong[Principal Production Engineer]
