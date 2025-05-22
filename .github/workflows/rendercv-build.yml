@@ -49,6 +49,29 @@ jobs:
       - name: Render CV
         run: rendercv render Ravi_Ramakrishnan_Athmanathan_CV.yaml
 
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit rendered CV files
+        run: |
+          git add rendercv_output/
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit in rendercv_output."
+          else
+            git commit -m "Update rendered CV files [skip ci]"
+            echo "Committed changes in rendercv_output."
+          fi
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: false 
+
       # Optional: Upload artifact (e.g., the PDF or HTML output)
       - name: Upload CV artifact
         uses: actions/upload-artifact@v4
