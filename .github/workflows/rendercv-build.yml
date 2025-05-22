@@ -51,6 +51,17 @@ jobs:
       - name: Render CV
         run: rendercv render Ravi_Ramakrishnan_Athmanathan_CV.yaml
 
+      - name: Update image links in README.md for cache busting
+        run: |
+          # Get the current commit SHA
+          COMMIT_SHA=$(echo "${{ github.sha }}" | cut -c1-7) # Use short SHA for brevity
+          # Replace image links in README.md
+          # This sed command looks for markdown image links to png files in rendercv_output/
+          # and appends ?v=<short_sha> to them.
+          # It handles cases where a query string might already exist by removing it first.
+          sed -i -E "s|(rendercv_output/Ravi_Ramakrishnan_Athmanathan_CV_[0-9]+\.png)(\?[^)]*)?|?v=${COMMIT_SHA}|g" README.md
+          echo "Updated image links in README.md with ?v=${COMMIT_SHA}"
+
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
