@@ -159,7 +159,7 @@ design:
     horizontal_space_between_columns: 0.4cm
     vertical_space_between_entries: 0.4cm
     allow_page_break_in_sections: true
-    allow_page_break_in_entries: false
+    allow_page_break_in_entries: true
     short_second_row: false
     show_time_spans_in: [Experience]
   highlights:
