@@ -243,6 +243,6 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-02-11'
+  date: '2025-04-01'
   render_command:
   bold_keywords: []
