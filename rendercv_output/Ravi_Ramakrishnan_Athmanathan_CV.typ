@@ -3,7 +3,7 @@
 
 #let name = "Ravi Ramakrishnan Athmanathan"
 #let locale-catalog-page-numbering-style = context { "Ravi Ramakrishnan Athmanathan - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in Feb 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in Apr 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -47,7 +47,7 @@
 #let design-highlights-horizontal-space-between-bullet-and-highlights = 0.5em
 #let design-entries-vertical-space-between-entries = 0.4cm
 #let design-entries-date-and-location-width = 3.5cm
-#let design-entries-allow-page-break-in-entries = false
+#let design-entries-allow-page-break-in-entries = true
 #let design-entries-horizontal-space-between-columns = 0.4cm
 #let design-entries-left-and-right-margin = 0cm
 #let design-page-top-margin = 2cm
@@ -518,7 +518,7 @@
   right-content: [
     Apr 2025 – present
 
--1 years 11 months
+1 month
 
 Santa Clara, CA
   ],
