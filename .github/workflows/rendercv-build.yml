@@ -59,7 +59,7 @@ jobs:
           # This sed command looks for markdown image links to png files in rendercv_output/
           # and appends ?v=<short_sha> to them.
           # It handles cases where a query string might already exist by removing it first.
-          sed -i -E "s|(rendercv_output/Ravi_Ramakrishnan_Athmanathan_CV_[0-9]+\.png)(\?[^)]*)?|?v=${COMMIT_SHA}|g" README.md
+          sed -i -E "s|(rendercv_output/Ravi_Ramakrishnan_Athmanathan_CV_[0-9]+\.png)(\?[^)]*)?|\1?v=${COMMIT_SHA}|g" README.md
           echo "Updated image links in README.md with ?v=${COMMIT_SHA}"
 
       - name: Configure Git
