@@ -463,7 +463,7 @@
 
 
 #one-col-entry(
-  content: [Accomplished Site Reliability Engineer with over 10 years of experience ensuring the stability, performance, and operational excellence of enterprise-scale applications. Proven expertise in full-stack troubleshooting, high-stakes incident management, and developing automation to improve system reliability on Unix\/Linux platforms.]
+  content: [Accomplished Site Reliability Engineer with over 14 years of experience ensuring the stability, performance, and operational excellence of enterprise-scale applications. Proven expertise in full-stack troubleshooting, high-stakes incident management, and developing automation to improve system reliability on Unix\/Linux platforms.]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
