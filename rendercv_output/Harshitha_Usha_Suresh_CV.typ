@@ -460,8 +460,6 @@
 
 
 == Profile
-#block(
-  [
 
 
 #one-col-entry(
@@ -472,36 +470,16 @@
   content: [A collaborative problem-solver who excels in high-pressure environments by fostering clear communication between technical and non-technical teams to deliver consistent, high-quality results. Eager to leverage a deep background in SRE principles to contribute to a dynamic engineering team.]
 )
 
-  ],
-  breakable: false,
-  inset: (
-    left: 0cm,
-    right: 0cm,
-  ),
-  width: 100%,
-)
 
 == Core Competencies
-#block(
-  [
 
 
 #one-col-entry(
   content: [Site Reliability Engineering | Incident Management & Resolution | Root Cause Analysis | Automation & Tooling \(Python, Shell\) | Full-Stack Troubleshooting | Application Monitoring \(Splunk, Grafana\) | CI\/CD & Production Deployments | Operational Efficiency | Process Improvement | Stakeholder Management | Cross-Functional Collaboration | Unix\/Linux Administration | SOX Compliance]
 )
 
-  ],
-  breakable: false,
-  inset: (
-    left: 0cm,
-    right: 0cm,
-  ),
-  width: 100%,
-)
 
 == System Expertise & Technical Tools
-#block(
-  [
 
 
 #one-col-entry(
@@ -528,18 +506,8 @@
   content: [#strong[Operating Systems & Version Control:] Unix\/Linux, Mac OS X, Git, SVN]
 )
 
-  ],
-  breakable: false,
-  inset: (
-    left: 0cm,
-    right: 0cm,
-  ),
-  width: 100%,
-)
 
 == Experience
-#block(
-  [
 
 
 #two-col-entry(
@@ -656,18 +624,8 @@ Mangalore, India
 )
 
 
-  ],
-  breakable: false,
-  inset: (
-    left: 0cm,
-    right: 0cm,
-  ),
-  width: 100%,
-)
 
 == Education
-#block(
-  [
 
 
 // YES DATE, NO DEGREE
@@ -683,12 +641,4 @@ Mangalore, India
 )
 
 
-  ],
-  breakable: false,
-  inset: (
-    left: 0cm,
-    right: 0cm,
-  ),
-  width: 100%,
-)
 
