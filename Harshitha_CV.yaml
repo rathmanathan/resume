@@ -49,8 +49,8 @@ cv:
         start_date: '2021-10'
         end_date: '2024-06'
         highlights:
-          - Served as a primary point responsible for the overall health, performance, and capacity of one or more of LinkedIn’s Internet-facing services.
-          - Gained deep knowledge of LinkedIn’s complex applications.
+          - Served as a primary point responsible for the overall health, performance, and capacity of one or more of LinkedIn's Internet-facing services.
+          - Gained deep knowledge of LinkedIn's complex applications.
           - Assisted in the roll-out and deployment of new product features and installations to facilitate the rapid iteration and constant growth.
           - Developed tools to improve the ability to rapidly deploy and effectively monitor custom applications in a large-scale UNIX environment.
           - Worked closely with development teams to ensure that platforms are designed with "operability" in mind.
@@ -63,12 +63,12 @@ cv:
         start_date: '2020-02'
         end_date: '2021-07'
         highlights:
-          - Served as a primary point responsible for the overall health, performance, and capacity of one or more of LinkedIn’s Internet-facing services.
-          - Gained deep knowledge of LinkedIn’s complex applications.
+          - Served as a primary point responsible for the overall health, performance, and capacity of one or more of LinkedIn's Internet-facing services.
+          - Gained deep knowledge of LinkedIn's complex applications.
           - Functioned well in a fast-paced, rapidly-changing environment.
           - Participated in a 24x7 rotation for second-tier escalations.
 
-      - company: Infosys Ltd (Client: Apple Inc.)
+      - company: 'Infosys Ltd (Client: Apple Inc.)'
         position: Technology Analyst
         location: Sunnyvale, CA
         start_date: '2014-07'
@@ -81,7 +81,7 @@ cv:
           - Interfaced with clients on managing new Application/Services transition, product improvements & Business enhancements.
           - Performed requirement analysis, design & development of automations and tools.
 
-      - company: Infosys Ltd (Client: Apple Inc.)
+      - company: 'Infosys Ltd (Client: Apple Inc.)'
         position: Senior Systems Engineer
         location: Mangalore, India
         start_date: '2013-01'
@@ -94,7 +94,7 @@ cv:
           - Created and maintained Support Knowledge Base documentations.
           - Participated in regular on-call rotations.
 
-      - company: Infosys Ltd (Client: Apple Inc.)
+      - company: 'Infosys Ltd (Client: Apple Inc.)'
         position: Systems Engineer
         location: Mangalore, India
         start_date: '2010-12'
@@ -106,7 +106,7 @@ cv:
     
     Education:
       - institution: NMAMIT
-        degree: Bachelor of Engineering
+        degree: Ba​chelor of Engineering
         area: Electronics and Communications
         location: Karnataka, India
         start_date: '2006-06'
