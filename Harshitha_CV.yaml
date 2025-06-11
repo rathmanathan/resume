@@ -1,0 +1,253 @@
+cv:
+  name: Harshitha Usha Suresh
+  location: Pleasanton, CA
+  email: harshitha_us@outlook.com
+  social_networks:
+    - network: LinkedIn
+      username: harshithaus
+  sections:
+    Profile:
+      - Accomplished Site Reliability Engineer with over 10 years of experience ensuring the stability, performance, and operational excellence of enterprise-scale applications. Proven expertise in full-stack troubleshooting, high-stakes incident management, and developing automation to improve system reliability on Unix/Linux platforms.
+      - A collaborative problem-solver who excels in high-pressure environments by fostering clear communication between technical and non-technical teams to deliver consistent, high-quality results. Eager to leverage a deep background in SRE principles to contribute to a dynamic engineering team.
+
+    Core Competencies:
+      - Site Reliability Engineering | Incident Management & Resolution | Root Cause Analysis | Automation & Tooling (Python, Shell) | Full-Stack Troubleshooting | Application Monitoring (Splunk, Grafana) | CI/CD & Production Deployments | Operational Efficiency | Process Improvement | Stakeholder Management | Cross-Functional Collaboration | Unix/Linux Administration | SOX Compliance
+
+    System Expertise & Technical Tools:
+      - label: Programming & Scripting
+        details: Java, Python, JavaScript, Shell Scripting
+      - label: Web Technologies & APIs
+        details: HTML, APIs, XML, JSON, Memcached, Apache httpd, Tomcat, jBoss, ATS
+      - label: Databases & Query Languages
+        details: Oracle, Cassandra DB, MongoDB, SQL, Trino
+      - label: Monitoring & Observability
+        details: Splunk, Grafana, Tableau
+      - label: Big Data & Business Intelligence
+        details: Hadoop, Hive, Pig, Tableau
+      - label: Operating Systems & Version Control
+        details: Unix/Linux, Mac OS X, Git, SVN
+
+    Experience:
+      - company: LinkedIn Corporation
+        position: Technical Services Manager
+        location: Sunnyvale, CA
+        start_date: '2024-07'
+        end_date: present
+        highlights:
+          - Influence business decisions and lead major work streams for a large product portfolio.
+          - Monitor key product quality metrics, driving initiatives to achieve goals and enhance overall product quality.
+          - Lead the investigation and resolution of complex technical member cases to meet and exceed target SLAs.
+          - Drive post-mortems to identify process gaps and implement corrective actions to prevent issue recurrence.
+          - Partner with Product & Engineering stakeholders to spearhead quality improvement initiatives and deliver an optimal member experience.
+          - Lead team projects, define process improvements, and influence team strategy with organization-wide impact.
+          - Analyze reports and dashboards to rapidly identify issues and implement corrective actions.
+          - Ensure overall support readiness for the launch of new products and features.
+
+      - company: LinkedIn Corporation
+        position: Sr. Site Reliability Engineer
+        location: Sunnyvale, CA
+        start_date: '2021-10'
+        end_date: '2024-06'
+        highlights:
+          - Served as a primary point responsible for the overall health, performance, and capacity of one or more of LinkedIn's Internet-facing services.
+          - Gained deep knowledge of LinkedIn's complex applications.
+          - Assisted in the roll-out and deployment of new product features and installations to facilitate the rapid iteration and constant growth.
+          - Developed tools to improve the ability to rapidly deploy and effectively monitor custom applications in a large-scale UNIX environment.
+          - Worked closely with development teams to ensure that platforms are designed with "operability" in mind.
+          - Functioned well in a fast-paced, rapidly-changing environment.
+          - Participated in a 24x7 rotation for second-tier escalations.
+
+      - company: LinkedIn Corporation
+        position: Site Reliability Engineer
+        location: Sunnyvale, CA
+        start_date: '2020-02'
+        end_date: '2021-07'
+        highlights:
+          - Served as a primary point responsible for the overall health, performance, and capacity of one or more of LinkedIn's Internet-facing services.
+          - Gained deep knowledge of LinkedIn's complex applications.
+          - Functioned well in a fast-paced, rapidly-changing environment.
+          - Participated in a 24x7 rotation for second-tier escalations.
+
+      - company: 'Infosys Ltd (Client: Apple Inc.)'
+        position: Technology Analyst
+        location: Sunnyvale, CA
+        start_date: '2014-07'
+        end_date: '2020-02'
+        highlights:
+          - Coordinated RCA of production issues and drove resolutions/changes with Dev members and stakeholders.
+          - Managed Continuous Delivery of applications to production and other environments.
+          - Monitored production servers & applications health and proactively acted on any alerts.
+          - Enabled Change management & Control for all SOX audited applications.
+          - Interfaced with clients on managing new Application/Services transition, product improvements & Business enhancements.
+          - Performed requirement analysis, design & development of automations and tools.
+
+      - company: 'Infosys Ltd (Client: Apple Inc.)'
+        position: Senior Systems Engineer
+        location: Mangalore, India
+        start_date: '2013-01'
+        end_date: '2014-06'
+        highlights:
+          - Provided Technical support for Apple internal production applications.
+          - Handled regular Application Maintenance, supported emergency changes and bug fixes.
+          - Conducted full-stack technical troubleshooting.
+          - Performed Oracle PL/SQL tuning.
+          - Created and maintained Support Knowledge Base documentations.
+          - Participated in regular on-call rotations.
+
+      - company: 'Infosys Ltd (Client: Apple Inc.)'
+        position: Systems Engineer
+        location: Mangalore, India
+        start_date: '2010-12'
+        end_date: '2012-12'
+        highlights:
+          - Provided Technical support for Apple internal production applications.
+          - Performed full-stack technical troubleshooting.
+          - Conducted Oracle PL/SQL tuning.
+    
+    Education:
+      - institution: NMAMIT
+        degree: Ba​chelor of Engineering
+        area: Electronics and Communications
+        location: Karnataka, India
+        start_date: '2006-06'
+        end_date: '2010-05'
+design:
+  theme: moderncv
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: false
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 102, 204)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Mukta
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: false
+  header:
+    name_font_family: Poppins
+    name_font_size: 25pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: Poppins
+    separator_between_connections: '|'
+    use_icons_for_connections: true
+    alignment: left
+  section_titles:
+    type: moderncv
+    font_family: Lato
+    font_size: 1.4em
+    bold: false
+    small_caps: false
+    line_thickness: 0.05cm
+    vertical_space_above: 0.55cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 3.5cm
+    left_and_right_margin: 0cm
+    horizontal_space_between_columns: 0.4cm
+    vertical_space_between_entries: 0.4cm
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: [Experience]
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0cm
+    vertical_space_between_highlights: 0.35cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, DEGREE in AREA -- LOCATION'
+      degree_column_template:
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    experience_entry:
+      main_column_first_row_template: '**COMPANY**\n**POSITION**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE\nLOCATION
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-04-01'
+  render_command:
+  bold_keywords: []

@@ -26,8 +26,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install "rendercv[full]"
 
-      - name: Render CV
+      - name: Render CV (Ravi)
         run: rendercv render Ravi_Ramakrishnan_Athmanathan_CV.yaml
+
+      - name: Render CV (Harshi)
+        run: rendercv render Harshitha_CV.yaml
 
   build_and_publish_main:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
@@ -48,8 +51,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install "rendercv[full]"
 
-      - name: Render CV
+      - name: Render CV (Ravi)
         run: rendercv render Ravi_Ramakrishnan_Athmanathan_CV.yaml
+
+      - name: Render CV (Harshi)
+        run: rendercv render Harshitha_CV.yaml
 
       - name: Update image links in README.md for cache busting
         run: |
